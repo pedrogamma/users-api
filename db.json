@@ -3,12 +3,22 @@
     {
       "id": 1,
       "name": "Joseph",
-      "age": 38
+      "age": 38,
+      "picture": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
     },
     {
       "id": 2,
       "name": "Anderson",
-      "age": 25
-    }
+      "age": 25,
+      "picture": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Mortimer",
+        "age": 25,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+  
+      }
   ]
 }
